@@ -1,0 +1,20 @@
+key,label,FY21,FY22,FY23,FY24,FY25,FY26
+int_adv,Interest on Advances,94834.54,98512.02,127095.86,207220.01,238444.43,239762.46
+int_inv,Income on Investments,23214.27,26046.13,31311.16,44364.28,53319.69,58945.38
+int_rbi,Interest on RBI & Inter-bank Balances,2341.25,2552.37,996.79,2040.47,2506.31,2674.7
+int_oth,Other Interest Income,468.17,642.59,2181.74,4715.8,6246.61,6139.54
+ie_dep,Interest on Deposits,50143.31,48909.0,61517.86,99432.96,125270.61,138375.21
+ie_borr,Interest on Borrowings (RBI / Inter-bank / Bonds),5822.59,6818.94,13137.16,50260.39,52469.76,40351.97
+ie_oth,Other Interest Expense,12.76,15.6,88.29,114.75,106.58,108.86
+fees,Fees & Commission,16169.32,19536.57,23844.05,28160.65,31898.55,34875.94
+forex,Forex & Derivatives Income,2438.41,3907.91,4081.85,4001.13,4919.04,6459.99
+divsub,Dividend from Subsidiaries,483.04,830.9,810.98,1332.39,2187.01,2242.21
+misc,"Miscellaneous Income (incl. recoveries, asset-sale gains)",2247.12,2951.88,3609.1,4220.7,4873.36,5017.79
+treasury,Treasury Gains (sale / revaluation of investments),3867.0,2282.64,-1131.15,11526.13,1754.32,13936.64
+emp,Employee Cost,10364.79,12031.69,15512.36,22240.21,23900.53,26050.15
+depn,Depreciation,1302.41,1599.8,2242.48,2810.1,3379.47,3657.58
+oth_opex,Other Operating Expenses,21055.42,23810.7,29897.24,38335.72,40894.88,42952.59
+provisions,Provisions & Contingencies (excl. tax),15702.85,15061.83,11919.66,23492.15,11649.43,23389.59
+tax,Tax Expense,10542.46,12054.12,14376.6,10083.03,21130.7,20497.4
+pat_reported,Net Profit (as reported),31116.53,36961.36,44108.7,60812.28,67347.36,74671.29
+eps_reported,"EPS Basic (as reported, Rs)",56.58,66.8,79.25,85.83,88.29,48.62

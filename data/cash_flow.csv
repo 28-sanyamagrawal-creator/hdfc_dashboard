@@ -1,0 +1,28 @@
+key,label,FY21,FY22,FY23,FY24,FY25,FY26
+cf_pbt,Profit Before Tax,41658.98,49015.48,58485.3,70895.31,88478.06,95168.69
+cf_dep,Depreciation,1302.41,1599.8,2242.48,2810.1,3379.47,3657.58
+cf_npa,Provision for NPAs,11649.97,10633.48,11787.38,10774.82,12715.31,11416.8
+cf_float,Floating / Standard Asset Provisions,4269.48,4956.97,132.27,12717.33,-1065.87,11972.78
+cf_other_adj,Other Non-cash Adjustments,1766.21,-1226.66,1326.65,-7298.77,-70.43,-9795.21
+cf_inv,(Increase) in Investments,-52540.61,-12195.17,-63330.89,-54833.62,-130200.37,-49116.6
+cf_adv,(Increase) in Advances,-150924.64,-246638.9,-243552.64,-289444.22,-148903.38,-328962.4
+cf_dep_inc,Increase in Deposits,187557.93,224157.22,324177.21,339132.41,334928.62,390535.58
+cf_oa,(Increase)/Decrease in Other Assets,10018.28,-38023.58,-59409.35,-29225.41,-7342.45,-30222.3
+cf_ol,Increase/(Decrease) in Other Liabilities,-675.65,7517.9,10930.72,-669.24,10634.06,49002.92
+cf_tax,Direct Taxes Paid,-12587.57,-14005.26,-15475.73,-19843.74,-17375.71,-20040.85
+cfo,Net Cash from Operating Activities (CFO),41494.79,-14208.72,27313.41,35014.96,145177.3,123616.99
+cf_capex,Purchase of Fixed Assets (Capex),-1617.38,-2140.79,-3280.47,-3834.89,-3198.69,-3143.53
+cf_fa_sale,Proceeds from Sale of Fixed Assets,14.16,18.3,40.61,96.0,90.45,429.76
+cf_sub,Subsidiary Stake Sale / (Investment),0.0,0.0,0.0,9500.67,-1117.77,9725.13
+cf_subdiv,Dividend from Subsidiaries,483.04,830.9,810.98,1332.39,2187.01,2242.21
+cfi,Net Cash from Investing Activities (CFI),-1120.17,-1291.6,-2428.88,7094.17,-2039.01,9253.57
+cf_equity,Equity Issued (ESOPs / Warrants),1760.1,2609.76,3415.83,8442.54,6346.5,5108.5
+cf_bonds,Capital Bonds Issued / (Redeemed),-1105.0,4512.75,11523.0,0.0,0.0,0.0
+cf_borr,Other Borrowings Raised / (Repaid),-8036.21,44661.63,9787.61,-22275.06,-114429.18,-59472.25
+cf_div,Dividend Paid,0.0,-3592.4,-8604.52,-8404.42,-14826.19,-20705.98
+cff,Net Cash from Financing Activities (CFF),-7381.11,48191.75,16121.92,-22236.94,-122908.88,-75069.72
+cf_fx,FX Translation Effect,-141.83,165.1,431.71,101.26,193.83,1094.84
+cf_net,Net Increase in Cash & Cash Equivalents,32851.68,32856.53,41438.16,19973.47,20423.25,58895.67
+cf_open,Opening Cash & Cash Equivalents,86618.72,119470.4,152326.92,193765.08,219147.42,239570.67
+cf_amalg,Cash Acquired on Amalgamation (HDFC Ltd),0.0,0.0,0.0,5408.87,0.0,0.0
+cf_close,Closing Cash & Cash Equivalents,119470.4,152326.92,193765.08,219147.42,239570.67,298466.35
